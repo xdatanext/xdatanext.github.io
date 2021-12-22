@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on xdatanext</title>
+    <link>https://xdatanext.github.io/tags/</link>
+    <description>Recent content in Tags on xdatanext</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Dec 2021 09:54:24 -0800</lastBuildDate><atom:link href="https://xdatanext.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>sample</title>
+      <link>https://xdatanext.github.io/tags/sample/</link>
+      <pubDate>Wed, 22 Dec 2021 09:54:24 -0800</pubDate>
+      
+      <guid>https://xdatanext.github.io/tags/sample/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>todo</title>
+      <link>https://xdatanext.github.io/tags/todo/</link>
+      <pubDate>Wed, 22 Dec 2021 09:54:24 -0800</pubDate>
+      
+      <guid>https://xdatanext.github.io/tags/todo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>css</title>
+      <link>https://xdatanext.github.io/tags/css/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://xdatanext.github.io/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>html</title>
+      <link>https://xdatanext.github.io/tags/html/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://xdatanext.github.io/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://xdatanext.github.io/tags/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://xdatanext.github.io/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>https://xdatanext.github.io/tags/themes/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://xdatanext.github.io/tags/themes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
